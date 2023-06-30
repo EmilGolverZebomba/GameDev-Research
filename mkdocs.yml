@@ -2,6 +2,8 @@ site_name: "Zebomba Games: Ресурсы и референсы"
 
 theme:
     name: 'material'
+    logo: assets/logo.png
+    favicon: assets/logo.png
     palette:
 
     # Light mode
