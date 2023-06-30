@@ -21,7 +21,7 @@ theme:
       primary: deep purple
       accent: blue
       toggle:
-        icon: material/material/toggle-switch-off-outline
+        icon: material/toggle-switch-off-outline
         name: Switch to light mode
 
 # Extensions
