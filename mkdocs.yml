@@ -12,7 +12,7 @@ theme:
       primary: deep purple
       accent: indigo
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch
         name: Switch to dark mode
 
     # Dark mode
@@ -21,7 +21,7 @@ theme:
       primary: deep purple
       accent: blue
       toggle:
-        icon: material/brightness-4
+        icon: material/material/toggle-switch-off-outline
         name: Switch to light mode
 
 # Extensions
