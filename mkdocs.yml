@@ -1,10 +1,10 @@
 site_name: "Zebomba Games: Ресурсы и референсы"
 
 theme:
-    name: 'material'
-    logo: assets/logo.png
-    favicon: assets/logo.png
-    palette:
+  name: 'material'
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
@@ -12,7 +12,7 @@ theme:
       primary: deep purple
       accent: indigo
       toggle:
-        icon: material/brightness_7
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Dark mode
@@ -21,7 +21,7 @@ theme:
       primary: deep purple
       accent: blue
       toggle:
-        icon: material/brightness_4
+        icon: material/brightness-4
         name: Switch to light mode
 
 # Extensions
