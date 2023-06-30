@@ -4,17 +4,11 @@ theme:
   name: 'material'
   palette:
   
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: deep purple
-      accent: indigo
+      accent: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -23,7 +17,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: deep purple
-      accent: blue
+      accent: orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -34,6 +28,9 @@ theme:
 markdown_extensions:
   - footnotes
   # - attr_list
+  - pymdownx.emoji
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.arithmatex:
       generic: true
   # - pymdownx.superfences
