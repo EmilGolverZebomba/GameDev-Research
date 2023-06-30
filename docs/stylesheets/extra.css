@@ -1,3 +1,11 @@
 .youtube {
   color: #1DA1F2;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
