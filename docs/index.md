@@ -29,24 +29,19 @@ The notes appear as pages within these sections. For example, [[Note 1]] in `Top
 	</tr>
 </table>
 
-<div class="row">  
-  <div class="column">The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`</div>
-  <div class="column">The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`</div>  
-</div>
-
-<div class="row">  
-	 <div class="column">
+<span class="row">  
+	 <span class="column">
 		<ul>  
 			<li><a href="Topic 1/Note 1/">Note 1</a></li>
 			<li><a href="Topic 1/Note 1/">Note 1</a></li>
 			<li><a href="Topic 1/Note 1/">Note 1</a></li>
 		</ul>
-	 </div>
-	 <div class="column">
+	 </span>
+	 <span class="column">
 		<ul>  
 			<li><a href="Topic 1/Note 1/">Note 1</a></li>
 			<li><a href="Topic 1/Note 1/">Note 1</a></li>
 			<li><a href="Topic 1/Note 1/">Note 1</a></li>
 		</ul>
-	 </div>  
-</div>
+	 </span>  
+</span>
