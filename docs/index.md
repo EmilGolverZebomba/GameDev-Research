@@ -1,49 +1,22 @@
-# Obsidian Notes
+# Информация
 
-Publish your public notes with MkDocs
+На сайте можно будет найти большое количество различных полезных материалов, референсов и идей, которые будут полезны как для геймдизайнеров, так и для разработчиков
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
-
-<table>
-	<tr>
-		<th> Good </th>
-		<th> Bad </th>
-	</tr>
-	<tr>
-		<td>
-			<ul>  
-				<li><a href="Topic 1/Note 1/">Note 1</a></li>
-				<li><a href="Topic 1/Note 1/">Note 1</a></li>
-				<li><a href="Topic 1/Note 1/">Note 1</a></li>
-			</ul>
-		</td>
-		<td>
-			The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
-		</td>
-	</tr>
-</table>
+## Навигация
 
 <table class="row">
 	<tr>
-		<th class="column"> Good </th>
-		<th class="column"> Bad </th>
-	</tr>
-	<tr>
 		<td class="column">
 			<ul>  
-				<li><a href="Topic 1/Note 1/">Note 1</a></li>
-				<li><a href="Topic 1/Note 1/">Note 1</a></li>
-				<li><a href="Topic 1/Note 1/">Note 1</a></li>
+				<li><a href="Полезные%20инструменты/Main/">Полезные инструменты</a></li>
+				<li><a href="Примеры%20Игр/Example-one/">Примеры игр</a></li>
 			</ul>
 		</td>
 		<td class="column">
-			The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+				<li><a href="Полезные%20инструменты/Main/">Полезные инструменты</a></li>
+				<li><a href="Примеры%20Игр/Example-one/">Примеры игр</a></li>
+				<li><a href="Полезные%20инструменты/Main/">Полезные инструменты</a></li>
+				<li><a href="Примеры%20Игр/Example-one/">Примеры игр</a></li>
 		</td>
 	</tr>
 </table>
