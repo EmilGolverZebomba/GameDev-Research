@@ -9,14 +9,14 @@
 		<td class="column">
 			<ul>  
 				<li><a href="Полезные%20инструменты/Main/">Полезные инструменты</a></li>
-				<li><a href="Примеры%20Игр/Example-one/">Примеры игр</a></li>
+				<li><a href="Примеры%20игр/Example-one/">Примеры игр</a></li>
 			</ul>
 		</td>
 		<td class="column">
 				<li><a href="Полезные%20инструменты/Main/">Полезные инструменты</a></li>
-				<li><a href="Примеры%20Игр/Example-one/">Примеры игр</a></li>
+				<li><a href="Примеры%20игр/Example-one/">Примеры игр</a></li>
 				<li><a href="Полезные%20инструменты/Main/">Полезные инструменты</a></li>
-				<li><a href="Примеры%20Игр/Example-one/">Примеры игр</a></li>
+				<li><a href="Примеры%20игр/Example-one/">Примеры игр</a></li>
 		</td>
 	</tr>
 </table>
